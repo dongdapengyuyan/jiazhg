@@ -1,0 +1,5 @@
+There are many types of degradation which can occur in Voice over IP calls. Degradations which occur independently of the codec, hardware, or network in use are the focus of this dataset.  The development of new quality metrics for modern communication systems depends heavily on the availability of suitable test and development data with subjective quality scores. A new dataset of VoIP degradations (TCD-VoIP) has been created and is available here. The dataset contains speech samples with a range of common VoIP degradations, and the corresponding set of subjective opinion scores from 24 listeners.
+
+Please reference the following paper in any publications where you use the dataset:
+
+N. Harte, E.Gillen, A. Hines. TCD-VoIP, a Research Database of Degraded Speech for Assessing Quality in VoIP Applications. In Quality of Multimedia Experience (QoMEX), Seventh International Workshop on, Costa Navarino, Greece, 2015.  
